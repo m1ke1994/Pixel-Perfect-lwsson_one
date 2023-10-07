@@ -1,0 +1,47 @@
+*{
+    margin: 0
+}
+body{
+    background-color: gainsboro;
+}
+.card{
+    width: 400px;
+    background-color: white;
+    border-radius: 30px;
+    box-sizing: border-box;
+    margin: 50px auto;
+    
+}
+.imgine img{
+    margin: 16px 16px 0px 16px;
+}
+h3{
+    margin: 21px 24px 0px 24px;
+}
+.info{
+    display: flex;
+    margin: 28px 0px 32px 24px; 
+    padding-bottom: 32px;
+}
+.clock span{
+    margin-right: 24px;
+    
+}
+.info img{
+   
+    vertical-align:middle;
+}
+.instrument_two,.clock img{
+    margin-right: 13px
+}
+h3{
+    font-family: "Inter",serif;
+    font: weight 600px;
+    font-size: 24px;
+    letter-spacing: 0.01px
+}
+span{
+    font-family: "Inter",serif;
+    font-size: 14px;
+    font-weight: 300px;
+}
