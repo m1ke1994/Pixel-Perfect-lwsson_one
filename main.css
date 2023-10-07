@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #eaa3a3;
+}
+h2{
+    color: #00A890;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 64px;
+    margin-bottom: 20px;
+}
+.title{
+    color: #00A890;
+    font-size: 24px;
+    margin-bottom: 36px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+.time{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #282828;
+    margin-bottom: 20px;
+}
+.conteiner{
+    width: 1260px;
+    height: auto;
+    background-color: white;
+    margin: 50px auto;
+    box-sizing: border-box;
+    padding-bottom: 3px;
+
+    
+}
+.tree_card{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.description{
+    font-size: 20px;
+    font-family:'Lato', sans-serif ;
+    font-weight: 400px;
+    letter-spacing: .55px;
+    
+}
+p{
+    font-size: 20px;
+}
+.tree_card{
+    margin-top: 113px;
+}
+.info_card{
+    width: 373px;
+    height: 552px;
+}
+img{
+    margin-bottom: 20px;
+}
+.t{
+    letter-spacing: .50px;
+}
+
+
